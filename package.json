@@ -1,0 +1,7 @@
+{
+  "name": "devpulse-task-orchestrator",
+  "version": "1.0.0",
+  "description": "Production module for devpulse-task-orchestrator",
+  "author": "Ayush Chandra",
+  "license": "MIT"
+}
